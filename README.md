@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/KH-Ray/skilled-elearning-landing-page](https://github.com/KH-Ray/skilled-elearning-landing-page)
+- Live Site URL: [https://6521296aada01b6012383fe2--adorable-cupcake-b67ada.netlify.app/](https://6521296aada01b6012383fe2--adorable-cupcake-b67ada.netlify.app/)
 
 ## My process
 
