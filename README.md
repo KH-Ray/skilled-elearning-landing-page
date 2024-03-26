@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./skilled-elearing-landing-page.png)
+![](skilled-elearing-landing-page.png)
 
 ### Links
 
 - Solution URL: [https://github.com/KH-Ray/skilled-elearning-landing-page](https://github.com/KH-Ray/skilled-elearning-landing-page)
-- Live Site URL: [https://6521296aada01b6012383fe2--adorable-cupcake-b67ada.netlify.app/](https://6521296aada01b6012383fe2--adorable-cupcake-b67ada.netlify.app/)
+- Live Site URL: [https://cheery-elf-40ec05.netlify.app/](https://cheery-elf-40ec05.netlify.app/)
 
 ## My process
 
@@ -154,7 +154,7 @@ Users should be able to:
 
 html {
   font-size: 62.5%;
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
 body {
@@ -177,7 +177,7 @@ body {
   height: 5.6rem;
   border: none;
   border-radius: 9999px;
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-weight: 700;
   font-size: 1.8rem;
 }
