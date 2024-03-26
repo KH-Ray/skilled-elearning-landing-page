@@ -8,7 +8,7 @@
 
 html {
   font-size: 62.5%;
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
 }
 
 body {
@@ -31,12 +31,11 @@ body {
   height: 5.6rem;
   border: none;
   border-radius: 9999px;
-  font-family: "Plus Jakarta Sans", sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-weight: 700;
   font-size: 1.8rem;
 }
 
-.top-left p:has(+ .btn-top-left:hover),
 .btn:hover {
   cursor: pointer;
   opacity: 0.5;

@@ -35,9 +35,10 @@
 }
 
 .top-left p {
-  font-size: 2.4rem;
-  font-weight: 700;
+  font-size: 2.2rem;
+  font-weight: 500;
   line-height: 40px;
+  color: #83869a;
 }
 
 .btn-top-left {
